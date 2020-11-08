@@ -1,0 +1,3 @@
+blastx -query /scratch/SampleDataFiles/Seq.fasta \
+-db /blastDB/swissprot \
+-num_alignments 1

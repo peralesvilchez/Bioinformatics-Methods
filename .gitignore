@@ -1,0 +1,13 @@
+*.*
+!*.sh
+!*.pl
+!*.py
+!*.md
+!*.Rmd
+!*.png
+!*.jpg
+!*.ris
+!.gitignore
+!*.pdf
+!scaffolds.fasta
+!gms.out
